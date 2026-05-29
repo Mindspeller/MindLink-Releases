@@ -13,7 +13,7 @@ function Make-Button($version, $filename) {
     }
     $resolved = $filename -replace '\{version\}', $version
     $encoded = [Uri]::EscapeDataString($resolved)
-    $url = "https://github.com/Mindspeller/MindLink-Releases/releases/latest/download/$encoded"
+    $url = "https://github.com/Mindspeller/MindLink-Releases/releases/download/v$version/$encoded"
     return "<a class='btn' href='$url'>Download &nbsp;<small>v$version</small></a>"
 }
 

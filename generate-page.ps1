@@ -4,7 +4,7 @@
 
 param()
 
-$brainlink = (Get-Content brainlink-version.txt -Raw).Trim()
+$brainlink = (Get-Content mindlink-version.txt -Raw).Trim()
 $mindrove  = (Get-Content mindrove-version.txt  -Raw).Trim()
 
 function Make-Button($label, $version, $filename) {

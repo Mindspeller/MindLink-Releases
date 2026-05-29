@@ -11,7 +11,8 @@ function Make-Button($version, $filename) {
     if ($version -eq 'unreleased') {
         return "<span class='btn disabled'>Coming Soon</span>"
     }
-    $encoded = [Uri]::EscapeDataString($filename -replace '\{version\}', $version)
+    $resolved = $filename -replace '\{version\}', $version
+    $encoded = [Uri]::EscapeDataString($resolved)
     $url = "https://github.com/Mindspeller/MindLink-Releases/releases/latest/download/$encoded"
     return "<a class='btn' href='$url'>Download &nbsp;<small>v$version</small></a>"
 }

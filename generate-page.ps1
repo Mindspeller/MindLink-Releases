@@ -58,7 +58,7 @@ $html = @"
     <div class="card">
       <img src="mindrove.png" alt="MindRove headset">
       <div class="card-title">High End</div>
-      <div class="card-desc">Macrotellect Headset<br>Press download below if you own a headset that looks like the image above.</div>
+      <div class="card-desc">MindRove Headset<br>Press download below if you own a headset that looks like the image above.</div>
       $mrBtn
     </div>
   </div>

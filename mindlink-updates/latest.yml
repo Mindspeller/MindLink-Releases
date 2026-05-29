@@ -1,8 +1,8 @@
-version: 1.2.6
+version: 1.2.7
 files:
-  - url: https://github.com/Mindspeller/MindLink-Releases/releases/download/v1.2.6/Mindlink-Analyzer-Setup-1.2.6.exe
-    sha512: I91t2gInYnjHhP9dZrI3GcOhiJdcWz2NWVrMT7THF/titZu60A+kPkIhlHrGfrINWXFoiEcgpptQ9BskFzVunQ==
-    size: 177547815
-path: https://github.com/Mindspeller/MindLink-Releases/releases/download/v1.2.6/Mindlink-Analyzer-Setup-1.2.6.exe
-sha512: I91t2gInYnjHhP9dZrI3GcOhiJdcWz2NWVrMT7THF/titZu60A+kPkIhlHrGfrINWXFoiEcgpptQ9BskFzVunQ==
-releaseDate: '2026-05-29T14:31:36.280Z'
+  - url: https://github.com/Mindspeller/MindLink-Releases/releases/download/v1.2.7/Mindlink-Analyzer-Setup-1.2.7.exe
+    sha512: D/uOb0KO4VCGn/bgdTJEZ/2scx/ITAGkyXGVDjVIzEcOPAx7PjPSKn4y4lmqd5AtcWj+nrE19N9JvhliZNOAPw==
+    size: 177551366
+path: https://github.com/Mindspeller/MindLink-Releases/releases/download/v1.2.7/Mindlink-Analyzer-Setup-1.2.7.exe
+sha512: D/uOb0KO4VCGn/bgdTJEZ/2scx/ITAGkyXGVDjVIzEcOPAx7PjPSKn4y4lmqd5AtcWj+nrE19N9JvhliZNOAPw==
+releaseDate: '2026-05-29T15:10:14.619Z'

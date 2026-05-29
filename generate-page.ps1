@@ -27,11 +27,11 @@ $html = @"
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MindLink Analyzer – Downloads</title>
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.png" type="image/png">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: system-ui, -apple-system, sans-serif; background: #f6f8fa; color: #1a1a2e; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px 20px; }
-    .logo { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 6px; }
+    .site-logo { height: 52px; width: auto; margin-bottom: 8px; }
     .subtitle { color: #57606a; font-size: 14px; margin-bottom: 48px; }
     .cards { display: flex; gap: 24px; flex-wrap: wrap; justify-content: center; max-width: 760px; width: 100%; }
     .card { background: #fff; border: 1px solid #d0d7de; border-radius: 12px; padding: 28px 24px; display: flex; flex-direction: column; align-items: center; gap: 16px; width: 320px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
@@ -45,7 +45,7 @@ $html = @"
   </style>
 </head>
 <body>
-  <div class="logo">MindLink Analyzer</div>
+  <img src="logo.png" alt="Mindspeller" class="site-logo">
   <p class="subtitle">Windows 10/11 &middot; 64-bit &middot; Auto-updates after install</p>
 
   <div class="cards">
@@ -69,4 +69,4 @@ $html = @"
 "@
 
 Set-Content -Path index.html -Value $html -Encoding UTF8
-Write-Host "index.html updated — MindLink: $mindlink | MindRove: $mindrove"
+Write-Host "index.html updated - MindLink: $mindlink | MindRove: $mindrove"

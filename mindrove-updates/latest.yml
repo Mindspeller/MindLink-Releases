@@ -1,0 +1,8 @@
+﻿version: 100.0.3
+files:
+  - url: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.3/Mindlink-Analyzer-4C-Setup-100.0.3.exe
+    sha512: sMKkI48xkGybVoOTp/Py8rX98rBmLmkMuR7/zQ03LoHueTAcIayrXoawz5Z542Fa1Cby7/a5pose6PiWP2Ttag==
+    size: 181414809
+path: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.3/Mindlink-Analyzer-4C-Setup-100.0.3.exe
+sha512: sMKkI48xkGybVoOTp/Py8rX98rBmLmkMuR7/zQ03LoHueTAcIayrXoawz5Z542Fa1Cby7/a5pose6PiWP2Ttag==
+releaseDate: '2026-05-29T14:02:01.626Z'

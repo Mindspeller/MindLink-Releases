@@ -17,8 +17,8 @@ function Make-Button($version, $filename) {
     return "<a class='btn' href='$url'>Download &nbsp;<small>v$version</small></a>"
 }
 
-$mlBtn = Make-Button $mindlink "Mindlink Analyzer Setup {version}.exe"
-$mrBtn = Make-Button $mindrove "Mindlink Analyzer 4C Setup {version}.exe"
+$mlBtn = Make-Button $mindlink "Mindlink-Analyzer-Setup-{version}.exe"
+$mrBtn = Make-Button $mindrove "Mindlink-Analyzer-4C-Setup-{version}.exe"
 
 $html = @"
 <!DOCTYPE html>

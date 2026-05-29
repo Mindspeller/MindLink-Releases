@@ -50,15 +50,15 @@ $html = @"
 
   <div class="cards">
     <div class="card">
-      <img src="mindlink.png" alt="MindLink Single Channel headset">
-      <div class="card-title">Single Channel</div>
-      <div class="card-desc">MindLink headset<br>TGAM single-channel EEG</div>
+      <img src="mindlink.png" alt="MindLink headset">
+      <div class="card-title">Low End</div>
+      <div class="card-desc">Macrotellect Headset<br>Press download below if you own a headset that looks like the image above.</div>
       $mlBtn
     </div>
     <div class="card">
-      <img src="mindrove.png" alt="MindRove 4-channel headset">
-      <div class="card-title">4-Channel</div>
-      <div class="card-desc">MindRove headset<br>Multi-channel EEG</div>
+      <img src="mindrove.png" alt="MindRove headset">
+      <div class="card-title">High End</div>
+      <div class="card-desc">Macrotellect Headset<br>Press download below if you own a headset that looks like the image above.</div>
       $mrBtn
     </div>
   </div>

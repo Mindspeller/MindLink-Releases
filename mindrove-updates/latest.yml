@@ -1,8 +1,8 @@
-version: 100.0.18
+version: 100.0.19
 files:
-  - url: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.18/Mindlink-Analyzer-4C-Setup-100.0.18.exe
-    sha512: gZQWpCND5b63E3Z+BbECWIyoDTR3WoXZmEv183BjrZdxfoSjukbhWUmUNFiixTVy9wrHc7nYnJWKMOu+Ppc+DQ==
-    size: 171121786
-path: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.18/Mindlink-Analyzer-4C-Setup-100.0.18.exe
-sha512: gZQWpCND5b63E3Z+BbECWIyoDTR3WoXZmEv183BjrZdxfoSjukbhWUmUNFiixTVy9wrHc7nYnJWKMOu+Ppc+DQ==
-releaseDate: '2026-08-07T12:43:08.287Z'
+  - url: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.19/Mindlink-Analyzer-4C-Setup-100.0.19.exe
+    sha512: 1t6lC9wEVAZ6Hjp0n6etiYSyeoCX4gxnQ95URvX2px1mRPwrwUU9pG4J9nviabbpllBctcjotWSHnVUwjThPAg==
+    size: 192418537
+path: https://github.com/Mindspeller/MindLink-Releases/releases/download/v100.0.19/Mindlink-Analyzer-4C-Setup-100.0.19.exe
+sha512: 1t6lC9wEVAZ6Hjp0n6etiYSyeoCX4gxnQ95URvX2px1mRPwrwUU9pG4J9nviabbpllBctcjotWSHnVUwjThPAg==
+releaseDate: '2026-08-12T16:00:17.568Z'
